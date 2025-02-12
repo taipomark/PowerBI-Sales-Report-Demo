@@ -1,7 +1,7 @@
 # PowerBI-Sales-Report-Demo
 PowerBI Sales Report Demo
 
-It's a Power BI Project which you can open the "Sales Report.pbix" to the Dashboard
+It's a Power BI Project which you can open the "Sales Report.pbip" to the Dashboard
 
 Questions of the Report:
 1.	Can you tell us more about our customers and their spending habits?
